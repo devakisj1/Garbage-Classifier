@@ -23,7 +23,7 @@ def augment_image(image_path, output_folder):
 
 if __name__ == "__main__":
     # Input image path and output folder
-    input_folder= "C:/Users/devak/UTA/Semester 2/ML/groupProject/input folder/"
+    input_folder= ""
     output_folder = "output_folder"
 
     # Create the output folder if it doesn't exist
